@@ -1,2 +1,7 @@
-fastmcp
-pytz 
+fastmcp>=3.0.2
+httpx
+pytz
+markdown
+reportlab
+Pygments
+openai
