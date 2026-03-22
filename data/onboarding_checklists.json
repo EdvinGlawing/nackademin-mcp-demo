@@ -1,0 +1,23 @@
+{
+  "developer": [
+    "Logga in i e-post och Slack",
+    "Sätt upp VPN enligt företagets guide",
+    "Aktivera tvåfaktorsautentisering",
+    "Be om åtkomst till Git-repositories",
+    "Verifiera att utvecklingsmiljön fungerar"
+  ],
+  "designer": [
+    "Logga in i e-post och Slack",
+    "Installera designverktyg",
+    "Aktivera tvåfaktorsautentisering",
+    "Be om åtkomst till designfiler och mappar",
+    "Verifiera att delade resurser fungerar"
+  ],
+  "analyst": [
+    "Logga in i e-post och Slack",
+    "Sätt upp VPN",
+    "Aktivera tvåfaktorsautentisering",
+    "Be om åtkomst till BI-verktyg",
+    "Verifiera att rapportmiljöer fungerar"
+  ]
+}

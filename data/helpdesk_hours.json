@@ -1,0 +1,16 @@
+[
+  {
+    "location": "Stockholm",
+    "weekday_hours": "08:00-17:00",
+    "weekend_hours": "Stängt",
+    "contact_email": "helpdesk.stockholm@company.local",
+    "slack_channel": "#it-stockholm"
+  },
+  {
+    "location": "Göteborg",
+    "weekday_hours": "08:30-17:00",
+    "weekend_hours": "Stängt",
+    "contact_email": "helpdesk.goteborg@company.local",
+    "slack_channel": "#it-goteborg"
+  }
+]

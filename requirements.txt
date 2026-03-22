@@ -5,3 +5,5 @@ markdown
 reportlab
 Pygments
 openai
+fastmcp>=2.2.7
+pydantic>=2.7.0
